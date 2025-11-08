@@ -29,7 +29,7 @@ Each folder includes screenshots of successfully executed programs for learning 
 - JDBC connection setup  
 - CRUD (Create, Read, Update, Delete) operations using JDBC  
 
----
+
 
 
 
