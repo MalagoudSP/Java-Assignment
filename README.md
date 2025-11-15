@@ -9,7 +9,7 @@ This repository contains **executed Java programs** from core Java topics includ
 - Servlets
 - JSP(JavaServer Pages)
 
-Each folder includes screenshots of successfully executed programs for learning and academic reference.
+  Each folder includes screenshots of successfully executed programs for learning and academic reference.
 ---
 
 ## 🧠 Topics Covered
