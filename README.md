@@ -1,6 +1,6 @@
 ## 📘 Java Programs – Basics, Strings, Collections, JDBC, Swings, Servlets and JSP
 
-This repository contains **executed Java programs** from core Java topics including:
+This repository contains **screenshots of executed Java programs** from core Java topics including:
 - Java Basics
 - Java Strings
 - Java Collections Framework
@@ -9,7 +9,6 @@ This repository contains **executed Java programs** from core Java topics includ
 - Servlets
 - JSP(JavaServer Pages)
 
-  Each folder includes screenshots of successfully executed programs for learning and academic reference.
 ---
 
 ## 🧠 Topics Covered
@@ -20,7 +19,7 @@ This repository contains **executed Java programs** from core Java topics includ
 - Conditional & looping constructs  
 - Arrays and functions  
 - String handling operations  
-- StringBuffer and StringBuilder examples  
+- StringBuffer and StringBuilder     examples  
 
 ### 🔹 2. Collections Framework & JDBC
 
@@ -28,7 +27,8 @@ This repository contains **executed Java programs** from core Java topics includ
 - Sorting & Iteration using Iterators  
 - Comparable and Comparator usage  
 - JDBC connection setup  
-- CRUD (Create, Read, Update, Delete) operations using JDBC  
+- CRUD (Create, Read, Update, Delete) operations using JDBC
+  
 
 ### 🔹 3. Swings, Servlets and JSP
 
