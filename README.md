@@ -31,6 +31,7 @@ This repository contains **executed Java programs** from core Java topics includ
 - CRUD (Create, Read, Update, Delete) operations using JDBC  
 
 ### 🔹 3. Swings, Servlets and JSP
+
 - Basic Swing components (JFrame, JPanel, JButton, JTextField, JLabel)
 - Layout managers (FlowLayout, GridLayout, BorderLayout)
 - Servlet lifecycle (init, service, destroy)
