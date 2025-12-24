@@ -16,7 +16,7 @@ This repository contains **screenshots of executed Java programs** from core Jav
 ### 🔹 1. Java Basics & Strings
 
 - Basic input/output programs  
-- Conditional & looping constructs  
+- Conditional and looping constructs  
 - Arrays and functions  
 - String handling operations  
 - StringBuffer and StringBuilder     examples  
